@@ -13,16 +13,6 @@ Focused on high-reliability distributed systems, cryptographic key management, a
 
 ---
 
-## 🚀 Featured Projects
-
-- **[convert_parser](https://github.com/NavneetBeridev/convert_parser)**  
-  *Zero-downtime secret rotation service with cryptographic key management and audit trail compliance.*
-  
-- **[marginalia](https://github.com/NavneetBeridev/marginalia)**  
-  *Performance benchmark regression detection system with statistical significance testing.*
-
-- **[run-settings](https://github.com/NavneetBeridev/run-settings)**  
-  *Distributed systems monitoring and diagnostics platform.*
 
 ---
 
